@@ -1,8 +1,8 @@
 # Simple Stock Price
 
-![Project Image](project-image-url)
+![Project Image]()
 
-> This is a ReadMe template to help save you time and effort.
+> A data driven web-application.
 
 ---
 
@@ -19,34 +19,42 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Simple Stock Price is a simple data driven Web Application made with the help of Python and Streamlit.It visualizes the stock prices and also predicts the prices.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python
+- Visual Studio Code
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#simple-stock-price)
 
 ---
 
 ## How To Use
 
+- Fork this repository.
+- Install the required libraries.
+- Run the file using "streamlit run simple_stock_price.py" in the command prompt.
+
+[Back To The Top](#simple-stock-price)
+
+---
+
 #### Installation
 
+- pip install streamlit
+- pip install yfinance
 
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+[Back To The Top](#simple-stock-price)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+
+- Youtube - [freeCodeCamp](https://www.youtube.com/watch?v=JwSS70SZdyM&list=WL&index=3)
+
+[Back To The Top](#simple-stock-price)
 
 ---
 
@@ -54,7 +62,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2021] [Vinay V Nayak]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -74,14 +82,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#simple-stock-price)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Twitter - [Vinay Nayak](https://twitter.com/VinayNayak_15)
+- Facebook - [Vinay Nayak](https://www.facebook.com/profile.php?id=100010691047596)
 - Instagram - [Vinay Nayak](https://www.instagram.com/nayak.vinay009/)
+- Github - [Vinay Nayak](https://github.com/vinaynayak2000)
+- LinkedIn -[Vinay Nayak](https://www.linkedin.com/in/vinay-nayak-1595b3171/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#simple-stock-price)
