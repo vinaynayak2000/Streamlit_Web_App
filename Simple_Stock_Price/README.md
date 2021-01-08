@@ -1,6 +1,6 @@
 # Simple Stock Price
 
-![Project Image]()
+![Project Image](simple_stock_price.png)
 
 > A data driven web-application.
 
