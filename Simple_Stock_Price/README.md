@@ -19,7 +19,7 @@ Your sections headers will be used to reference location of destination.
 
 ## Description
 
-Simple Stock Price is a simple data driven Web Application made with the help of Python and Streamlit.It visualizes the stock prices and also predicts the prices.
+Simple Stock Price is a simple data driven Web Application made with the help of Python and Streamlit. It visualizes the stock prices and also predicts the prices.
 
 #### Technologies
 
