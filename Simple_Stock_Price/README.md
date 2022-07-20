@@ -1,4 +1,4 @@
-# Simple Stock Price
+# Stock Cast
 
 ![Picture](simple_stock_price.PNG)
 
